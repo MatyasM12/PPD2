@@ -1,0 +1,132 @@
+
+---Polynomial rank --- 1
+
+Multiplication
+----------------
+Number of Threads: 1 Time: 0.421003
+Number of Threads: 2 Time: 0.636979
+Number of Threads: 4 Time: 1.09272
+Number of Threads: 8 Time: 1.640213
+Number of Threads: 16 Time: 3.333665
+Number of Threads: 32 Time: 5.945393
+Number of Threads: 64 Time: 11.763919
+
+---Polynomial rank --- 2
+
+Multiplication
+----------------
+Number of Threads: 1 Time: 0.391175
+Number of Threads: 2 Time: 0.46669
+Number of Threads: 4 Time: 0.871835
+Number of Threads: 8 Time: 1.258478
+Number of Threads: 16 Time: 2.958348
+Number of Threads: 32 Time: 10.035731
+Number of Threads: 64 Time: 12.743366
+
+---Polynomial rank --- 4
+
+Multiplication
+----------------
+Number of Threads: 1 Time: 0.36361
+Number of Threads: 2 Time: 0.492744
+Number of Threads: 4 Time: 0.932248
+Number of Threads: 8 Time: 1.713464
+Number of Threads: 16 Time: 4.065417
+Number of Threads: 32 Time: 9.724603
+Number of Threads: 64 Time: 14.962032
+
+---Polynomial rank --- 8
+
+Multiplication
+----------------
+Number of Threads: 1 Time: 0.438372
+Number of Threads: 2 Time: 0.529747
+Number of Threads: 4 Time: 0.845027
+Number of Threads: 8 Time: 1.70629
+Number of Threads: 16 Time: 3.48885
+Number of Threads: 32 Time: 7.49914
+Number of Threads: 64 Time: 10.936639
+
+---Polynomial rank --- 16
+
+Multiplication
+----------------
+Number of Threads: 1 Time: 0.375693
+Number of Threads: 2 Time: 0.507469
+Number of Threads: 4 Time: 0.896755
+Number of Threads: 8 Time: 1.67344
+Number of Threads: 16 Time: 3.162242
+Number of Threads: 32 Time: 5.665228
+Number of Threads: 64 Time: 11.338008
+
+---Polynomial rank --- 32
+
+Multiplication
+----------------
+Number of Threads: 1 Time: 0.626408
+Number of Threads: 2 Time: 0.654348
+Number of Threads: 4 Time: 1.181451
+Number of Threads: 8 Time: 1.431033
+Number of Threads: 16 Time: 2.958349
+Number of Threads: 32 Time: 5.483234
+Number of Threads: 64 Time: 11.389737
+
+---Polynomial rank --- 64
+
+Multiplication
+----------------
+Number of Threads: 1 Time: 1.434431
+Number of Threads: 2 Time: 1.506926
+Number of Threads: 4 Time: 1.842596
+Number of Threads: 8 Time: 2.519977
+Number of Threads: 16 Time: 2.913416
+Number of Threads: 32 Time: 14.360168
+Number of Threads: 64 Time: 13.885549
+
+---Polynomial rank --- 128
+
+Multiplication
+----------------
+Number of Threads: 1 Time: 2.264732
+Number of Threads: 2 Time: 2.321747
+Number of Threads: 4 Time: 1.702136
+Number of Threads: 8 Time: 1.775765
+Number of Threads: 16 Time: 3.278915
+Number of Threads: 32 Time: 6.042809
+Number of Threads: 64 Time: 12.679177
+
+---Polynomial rank --- 256
+
+Multiplication
+----------------
+Number of Threads: 1 Time: 3.217747
+Number of Threads: 2 Time: 2.618148
+Number of Threads: 4 Time: 1.530714
+Number of Threads: 8 Time: 1.594148
+Number of Threads: 16 Time: 2.877169
+Number of Threads: 32 Time: 5.556485
+Number of Threads: 64 Time: 12.138103
+
+---Polynomial rank --- 512
+
+Multiplication
+----------------
+Number of Threads: 1 Time: 5.991081
+Number of Threads: 2 Time: 2.285121
+Number of Threads: 4 Time: 1.978526
+Number of Threads: 8 Time: 2.196768
+Number of Threads: 16 Time: 3.383505
+Number of Threads: 32 Time: 5.997877
+Number of Threads: 64 Time: 15.52123
+
+---Polynomial rank --- 1024
+
+Multiplication
+----------------
+Number of Threads: 1 Time: 25.088004
+Number of Threads: 2 Time: 20.18247
+Number of Threads: 4 Time: 7.153276
+Number of Threads: 8 Time: 4.615552
+Number of Threads: 16 Time: 4.403352
+Number of Threads: 32 Time: 8.167459
+Number of Threads: 64 Time: 22.177987
